@@ -22,7 +22,7 @@ git cherry-pick <commit-hash>
 ```
 You can also specify a range of commits to cherry-pick using the <start-commit>..<end-commit> syntax.
 
-Git will apply the commit to your current branch, creating a new commit with the same changes.
+## Git will apply the commit to your current branch, creating a new commit with the same changes.
 
 ```
 [target-branch 1234abc] Commit message
